@@ -1,5 +1,6 @@
 // Assignment # 10
 
+
 // This program calculates the area of a rectangle.
 
 let width = 5;

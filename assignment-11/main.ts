@@ -1,5 +1,6 @@
 // Assignment # 11
 
+
 // friends name
 
 let friendsName = ["Ahmed", "Ali", "Omar", "Mohammed", "Abid"];
